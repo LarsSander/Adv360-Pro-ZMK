@@ -1,4 +1,4 @@
-# Kinesis Advantage 360 Pro ZMK Config
+# Kinesis Advantage 360 Pro ZMK Config 
 
 ## Modifying the keymap
 
@@ -17,7 +17,7 @@ Certain ZMK features (e.g. combos) require knowing the exact key positions in th
 
 ### Build firmware
 
-1. Push a commit to trigger the build.
+1. Push a commit to trigger the build. push
 2. Download the artifact.
 
 ## Building the Firmware in a local container
